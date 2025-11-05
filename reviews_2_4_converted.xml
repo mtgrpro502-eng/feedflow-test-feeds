@@ -1,8 +1,5 @@
-<feed xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.4/product_reviews.xsd">
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.4/product_reviews.xsd">
 <version>2.4</version>
-<aggregator>
-<name>FeedFlow</name>
-</aggregator>
 <publisher>
 <name>FeedFlow</name>
 <favicon>https://feedflow.pro/static/image/favicon.ccc19f1c6780.png</favicon>
@@ -10,24 +7,29 @@
 <reviews>
 <review>
 <review_id>rev-syn-125626891-1202150421-297934113</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/محموعه-شانيل-الفخم-روتين-النظافه-اليومي/p125626891#rev-syn-125626891-1202150421-297934113</review_url>
 <review_timestamp>2025-11-01T23:29:12Z</review_timestamp>
-<title>عميل موثق</title>
 <content>يجننن يجنن ثبات فواحان تغليف انصح فيه كهديه سواء لنفسك او لغيرك</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-297934113</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>محموعه شانيل الفخم روتين النظافه اليومي</product_name>
 <product_url>https://thestorejeddah.com/ar/محموعه-شانيل-الفخم-روتين-النظافه-اليومي/p125626891</product_url>
+<product_name>محموعه شانيل الفخم روتين النظافه اليومي</product_name>
 <product_ids>
+<gtins>
+<gtin>125626891</gtin>
+</gtins>
+<mpns>
+<mpn>125626891</mpn>
+</mpns>
 <skus>
 <sku>125626891</sku>
 </skus>
@@ -37,24 +39,29 @@
 </review>
 <review>
 <review_id>rev-syn-652411084-1667790425-11719149</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-جيفنشي-لانترديت-روج-ألتيم-او-دي-بارفيوم-80-مل/p652411084#rev-syn-652411084-1667790425-11719149</review_url>
 <review_timestamp>2025-11-01T02:34:14Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميييله ريحته تختلف شي بسيط عن الاصدار الاساسي الشفاف ،، بما انه ماستر اشوف ريحته وثباته جيدين جداً مقارنه بالسعر شكرا لكم ماراح يكون اخر تعامل 👍🏻</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-11719149</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر جيفنشي لانترديت روج ألتيم او دي بارفيوم 80 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-جيفنشي-لانترديت-روج-ألتيم-او-دي-بارفيوم-80-مل/p652411084</product_url>
+<product_name>عطر جيفنشي لانترديت روج ألتيم او دي بارفيوم 80 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>652411084</gtin>
+</gtins>
+<mpns>
+<mpn>652411084</mpn>
+</mpns>
 <skus>
 <sku>652411084</sku>
 </skus>
@@ -64,24 +71,29 @@
 </review>
 <review>
 <review_id>rev-syn-236399346-810793411-259595959</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-امواج-جايدانس-46-عطر-نسائي-اودى-بيرفيوم-guidance-100ml/p236399346#rev-syn-236399346-810793411-259595959</review_url>
 <review_timestamp>2025-10-31T19:00:51Z</review_timestamp>
-<title>عميل موثق</title>
 <content>العطر خيال خيال ونفسسس الاصلي ترا مافيه فرق جربت الاثنين</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-259595959</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر امواج جايدانس 46 عطر نسائي اودى بيرفيوم guidance 100ML</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-امواج-جايدانس-46-عطر-نسائي-اودى-بيرفيوم-guidance-100ml/p236399346</product_url>
+<product_name>عطر امواج جايدانس 46 عطر نسائي اودى بيرفيوم guidance 100ML</product_name>
 <product_ids>
+<gtins>
+<gtin>236399346</gtin>
+</gtins>
+<mpns>
+<mpn>236399346</mpn>
+</mpns>
 <skus>
 <sku>236399346</sku>
 </skus>
@@ -91,24 +103,29 @@
 </review>
 <review>
 <review_id>rev-syn-71191469-204109761-593362282</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-ايف-سان-لوران-ليبر-لو-ابسولو-بلاتين-بارفيوم-90مل/p71191469#rev-syn-71191469-204109761-593362282</review_url>
 <review_timestamp>2025-10-30T10:15:56Z</review_timestamp>
-<title>عميل موثق</title>
 <content>العطر ادائه وثباته ممتاز</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-593362282</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر ايف سان لوران ليبر لو ابسولو بلاتين بارفيوم 90مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-ايف-سان-لوران-ليبر-لو-ابسولو-بلاتين-بارفيوم-90مل/p71191469</product_url>
+<product_name>عطر ايف سان لوران ليبر لو ابسولو بلاتين بارفيوم 90مل</product_name>
 <product_ids>
+<gtins>
+<gtin>71191469</gtin>
+</gtins>
+<mpns>
+<mpn>71191469</mpn>
+</mpns>
 <skus>
 <sku>71191469</sku>
 </skus>
@@ -118,24 +135,29 @@
 </review>
 <review>
 <review_id>rev-syn-868923754-612015353-977908248</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-مركز-باكارات-روج-540-،-70-ملل/p868923754#rev-syn-868923754-612015353-977908248</review_url>
 <review_timestamp>2025-10-30T05:46:51Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-977908248</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر مركز باكارات روج 540‏، ‏70 ملل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-مركز-باكارات-روج-540-،-70-ملل/p868923754</product_url>
+<product_name>عطر مركز باكارات روج 540‏، ‏70 ملل</product_name>
 <product_ids>
+<gtins>
+<gtin>868923754</gtin>
+</gtins>
+<mpns>
+<mpn>868923754</mpn>
+</mpns>
 <skus>
 <sku>868923754</sku>
 </skus>
@@ -145,24 +167,29 @@
 </review>
 <review>
 <review_id>rev-syn-1044500455-612015353-977908248</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-جيرلان-فانيليا-بلانيفوليا-50-مل/p1044500455#rev-syn-1044500455-612015353-977908248</review_url>
 <review_timestamp>2025-10-30T05:46:51Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-977908248</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">4</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر جيرلان فانيليا بلانيفوليا 50 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-جيرلان-فانيليا-بلانيفوليا-50-مل/p1044500455</product_url>
+<product_name>عطر جيرلان فانيليا بلانيفوليا 50 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1044500455</gtin>
+</gtins>
+<mpns>
+<mpn>1044500455</mpn>
+</mpns>
 <skus>
 <sku>1044500455</sku>
 </skus>
@@ -172,24 +199,29 @@
 </review>
 <review>
 <review_id>rev-syn-236399346-81710024-977908248</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-امواج-جايدانس-46-عطر-نسائي-اودى-بيرفيوم-guidance-100ml/p236399346#rev-syn-236399346-81710024-977908248</review_url>
 <review_timestamp>2025-10-30T05:45:59Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-977908248</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">1</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر امواج جايدانس 46 عطر نسائي اودى بيرفيوم guidance 100ML</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-امواج-جايدانس-46-عطر-نسائي-اودى-بيرفيوم-guidance-100ml/p236399346</product_url>
+<product_name>عطر امواج جايدانس 46 عطر نسائي اودى بيرفيوم guidance 100ML</product_name>
 <product_ids>
+<gtins>
+<gtin>236399346</gtin>
+</gtins>
+<mpns>
+<mpn>236399346</mpn>
+</mpns>
 <skus>
 <sku>236399346</sku>
 </skus>
@@ -199,24 +231,29 @@
 </review>
 <review>
 <review_id>rev-syn-651497660-1021945071-977908248</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-1957-او-دو-بارفيوم-200-مل/p651497660#rev-syn-651497660-1021945071-977908248</review_url>
 <review_timestamp>2025-10-30T05:44:52Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-977908248</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل 1957 او دو بارفيوم 200 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-1957-او-دو-بارفيوم-200-مل/p651497660</product_url>
+<product_name>عطر شانيل 1957 او دو بارفيوم 200 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>651497660</gtin>
+</gtins>
+<mpns>
+<mpn>651497660</mpn>
+</mpns>
 <skus>
 <sku>651497660</sku>
 </skus>
@@ -226,24 +263,29 @@
 </review>
 <review>
 <review_id>rev-syn-841596626-1021945071-977908248</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-كوميت-أو-دي-بارفيوم-75مل/p841596626#rev-syn-841596626-1021945071-977908248</review_url>
 <review_timestamp>2025-10-30T05:44:51Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-977908248</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل كوميت أو دي بارفيوم 75مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-كوميت-أو-دي-بارفيوم-75مل/p841596626</product_url>
+<product_name>عطر شانيل كوميت أو دي بارفيوم 75مل</product_name>
 <product_ids>
+<gtins>
+<gtin>841596626</gtin>
+</gtins>
+<mpns>
+<mpn>841596626</mpn>
+</mpns>
 <skus>
 <sku>841596626</sku>
 </skus>
@@ -253,24 +295,29 @@
 </review>
 <review>
 <review_id>rev-syn-724185045-1047014003-149009603</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ملمع-شفاه-ديور-اديكت-ليب-جلو-من-ديور-dior-addict-lip-glow-oil/p724185045#rev-syn-724185045-1047014003-149009603</review_url>
 <review_timestamp>2025-10-29T14:03:01Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل جداً</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-149009603</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ملمع شفاه ديور اديكت ليب جلو من ديور DIOR ADDICT LIP GLOW OIL</product_name>
 <product_url>https://thestorejeddah.com/ar/ملمع-شفاه-ديور-اديكت-ليب-جلو-من-ديور-dior-addict-lip-glow-oil/p724185045</product_url>
+<product_name>ملمع شفاه ديور اديكت ليب جلو من ديور DIOR ADDICT LIP GLOW OIL</product_name>
 <product_ids>
+<gtins>
+<gtin>724185045</gtin>
+</gtins>
+<mpns>
+<mpn>724185045</mpn>
+</mpns>
 <skus>
 <sku>724185045</sku>
 </skus>
@@ -280,24 +327,29 @@
 </review>
 <review>
 <review_id>rev-syn-165309778-1047014003-149009603</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ديور-باكستيج-زبدة-ديور-أديكت-ليب-جلو-للشفاه/p165309778#rev-syn-165309778-1047014003-149009603</review_url>
 <review_timestamp>2025-10-29T14:03:00Z</review_timestamp>
-<title>عميل موثق</title>
 <content>رائع</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-149009603</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ديور باكستيج زبدة ديور أديكت ليب جلو للشفاه</product_name>
 <product_url>https://thestorejeddah.com/ar/ديور-باكستيج-زبدة-ديور-أديكت-ليب-جلو-للشفاه/p165309778</product_url>
+<product_name>ديور باكستيج زبدة ديور أديكت ليب جلو للشفاه</product_name>
 <product_ids>
+<gtins>
+<gtin>165309778</gtin>
+</gtins>
+<mpns>
+<mpn>165309778</mpn>
+</mpns>
 <skus>
 <sku>165309778</sku>
 </skus>
@@ -307,24 +359,29 @@
 </review>
 <review>
 <review_id>rev-syn-1453044561-1047014003-149009603</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-الشعر-ديور-عود-روز-وود-40-مل/p1453044561#rev-syn-1453044561-1047014003-149009603</review_url>
 <review_timestamp>2025-10-29T14:03:00Z</review_timestamp>
-<title>عميل موثق</title>
 <content>👍👍👍</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-149009603</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر الشعر ديور عود روز وود 40 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-الشعر-ديور-عود-روز-وود-40-مل/p1453044561</product_url>
+<product_name>عطر الشعر ديور عود روز وود 40 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1453044561</gtin>
+</gtins>
+<mpns>
+<mpn>1453044561</mpn>
+</mpns>
 <skus>
 <sku>1453044561</sku>
 </skus>
@@ -334,24 +391,29 @@
 </review>
 <review>
 <review_id>rev-syn-206082430-469801365-575240690</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/شارلوت-تلبوري-باليت-احمرخدود-بيلو-توك-فلوليس-بينك/p206082430#rev-syn-206082430-469801365-575240690</review_url>
 <review_timestamp>2025-10-28T20:35:48Z</review_timestamp>
-<title>عميل موثق</title>
 <content>بموت عليه من جماله</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-575240690</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>شارلوت تلبوري باليت احمرخدود بيلو توك فلوليس - بينك</product_name>
 <product_url>https://thestorejeddah.com/ar/شارلوت-تلبوري-باليت-احمرخدود-بيلو-توك-فلوليس-بينك/p206082430</product_url>
+<product_name>شارلوت تلبوري باليت احمرخدود بيلو توك فلوليس - بينك</product_name>
 <product_ids>
+<gtins>
+<gtin>206082430</gtin>
+</gtins>
+<mpns>
+<mpn>206082430</mpn>
+</mpns>
 <skus>
 <sku>206082430</sku>
 </skus>
@@ -361,24 +423,29 @@
 </review>
 <review>
 <review_id>rev-syn-1702211314-469801365-575240690</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/شارلوت-تلبوري-باليت-احمرخدود-بيلو-توك-فلوليس-بيش/p1702211314#rev-syn-1702211314-469801365-575240690</review_url>
 <review_timestamp>2025-10-28T20:35:48Z</review_timestamp>
-<title>عميل موثق</title>
 <content>نفس منتججججج</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-575240690</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>شارلوت تلبوري باليت احمرخدود بيلو توك فلوليس - بيش</product_name>
 <product_url>https://thestorejeddah.com/ar/شارلوت-تلبوري-باليت-احمرخدود-بيلو-توك-فلوليس-بيش/p1702211314</product_url>
+<product_name>شارلوت تلبوري باليت احمرخدود بيلو توك فلوليس - بيش</product_name>
 <product_ids>
+<gtins>
+<gtin>1702211314</gtin>
+</gtins>
+<mpns>
+<mpn>1702211314</mpn>
+</mpns>
 <skus>
 <sku>1702211314</sku>
 </skus>
@@ -388,24 +455,29 @@
 </review>
 <review>
 <review_id>rev-syn-1837319906-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/مثبت-مكياج-بخاخ-اصلي/p1837319906#rev-syn-1837319906-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:38Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>مثبت مكياج بخاخ اصلي</product_name>
 <product_url>https://thestorejeddah.com/ar/مثبت-مكياج-بخاخ-اصلي/p1837319906</product_url>
+<product_name>مثبت مكياج بخاخ اصلي</product_name>
 <product_ids>
+<gtins>
+<gtin>1837319906</gtin>
+</gtins>
+<mpns>
+<mpn>1837319906</mpn>
+</mpns>
 <skus>
 <sku>1837319906</sku>
 </skus>
@@ -415,24 +487,29 @@
 </review>
 <review>
 <review_id>rev-syn-424802077-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/مسكره-بديل-برحواي-وبنفت/p424802077#rev-syn-424802077-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:38Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>مسكره بديل برحواي وبنفت</product_name>
 <product_url>https://thestorejeddah.com/ar/مسكره-بديل-برحواي-وبنفت/p424802077</product_url>
+<product_name>مسكره بديل برحواي وبنفت</product_name>
 <product_ids>
+<gtins>
+<gtin>424802077</gtin>
+</gtins>
+<mpns>
+<mpn>424802077</mpn>
+</mpns>
 <skus>
 <sku>424802077</sku>
 </skus>
@@ -442,24 +519,29 @@
 </review>
 <review>
 <review_id>rev-syn-2008692096-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/مثبت-مكياج-فكس-بلس-بديل-ماك-كايلين-او-ريل-بيوتي/p2008692096#rev-syn-2008692096-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:38Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>مثبت مكياج فكس بلس بديل ماك كايلين او ريل بيوتي</product_name>
 <product_url>https://thestorejeddah.com/ar/مثبت-مكياج-فكس-بلس-بديل-ماك-كايلين-او-ريل-بيوتي/p2008692096</product_url>
+<product_name>مثبت مكياج فكس بلس بديل ماك كايلين او ريل بيوتي</product_name>
 <product_ids>
+<gtins>
+<gtin>2008692096</gtin>
+</gtins>
+<mpns>
+<mpn>2008692096</mpn>
+</mpns>
 <skus>
 <sku>2008692096</sku>
 </skus>
@@ -469,24 +551,29 @@
 </review>
 <review>
 <review_id>rev-syn-1356963019-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ممكن-يوصلك-من-ريل-بيوتي-او-ماركه-لوف-مي/p1356963019#rev-syn-1356963019-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:37Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>كونتور كريمي بديل فورايفر</product_name>
 <product_url>https://thestorejeddah.com/ar/ممكن-يوصلك-من-ريل-بيوتي-او-ماركه-لوف-مي/p1356963019</product_url>
+<product_name>كونتور كريمي بديل فورايفر</product_name>
 <product_ids>
+<gtins>
+<gtin>1356963019</gtin>
+</gtins>
+<mpns>
+<mpn>1356963019</mpn>
+</mpns>
 <skus>
 <sku>1356963019</sku>
 </skus>
@@ -496,24 +583,29 @@
 </review>
 <review>
 <review_id>rev-syn-527578428-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/كونسيلر-بديل-تارت-ريل-بيوتي-لونين-27s-35n/p527578428#rev-syn-527578428-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:37Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>كونسيلر بديل تارت ريل بيوتي لونين 27S-35N</product_name>
 <product_url>https://thestorejeddah.com/ar/كونسيلر-بديل-تارت-ريل-بيوتي-لونين-27s-35n/p527578428</product_url>
+<product_name>كونسيلر بديل تارت ريل بيوتي لونين 27S-35N</product_name>
 <product_ids>
+<gtins>
+<gtin>527578428</gtin>
+</gtins>
+<mpns>
+<mpn>527578428</mpn>
+</mpns>
 <skus>
 <sku>527578428</sku>
 </skus>
@@ -526,24 +618,29 @@
 </review>
 <review>
 <review_id>rev-syn-44839256-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بيوتي-بلندر-6-قطعthestorejeddah/p44839256#rev-syn-44839256-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:37Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بيوتي بلندر 6 قطع</product_name>
 <product_url>https://thestorejeddah.com/ar/بيوتي-بلندر-6-قطعthestorejeddah/p44839256</product_url>
+<product_name>بيوتي بلندر 6 قطع</product_name>
 <product_ids>
+<gtins>
+<gtin>44839256</gtin>
+</gtins>
+<mpns>
+<mpn>44839256</mpn>
+</mpns>
 <skus>
 <sku>44839256</sku>
 </skus>
@@ -553,24 +650,29 @@
 </review>
 <review>
 <review_id>rev-syn-1651394440-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/فرشه-رسم-الحواجبthestorejeddah/p1651394440#rev-syn-1651394440-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:36Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>فرشه الحواجب واللاينر</product_name>
 <product_url>https://thestorejeddah.com/ar/فرشه-رسم-الحواجبthestorejeddah/p1651394440</product_url>
+<product_name>فرشه الحواجب واللاينر</product_name>
 <product_ids>
+<gtins>
+<gtin>1651394440</gtin>
+</gtins>
+<mpns>
+<mpn>1651394440</mpn>
+</mpns>
 <skus>
 <sku>1651394440</sku>
 </skus>
@@ -580,24 +682,29 @@
 </review>
 <review>
 <review_id>rev-syn-586619559-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/روج-بديل-سيفورا-8/p586619559#rev-syn-586619559-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:36Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>روج بديل سيفورا 8</product_name>
 <product_url>https://thestorejeddah.com/ar/روج-بديل-سيفورا-8/p586619559</product_url>
+<product_name>روج بديل سيفورا 8</product_name>
 <product_ids>
+<gtins>
+<gtin>586619559</gtin>
+</gtins>
+<mpns>
+<mpn>586619559</mpn>
+</mpns>
 <skus>
 <sku>586619559</sku>
 </skus>
@@ -607,24 +714,29 @@
 </review>
 <review>
 <review_id>rev-syn-599779549-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/واكس-للحواجب-بديل-ميكس-اب/p599779549#rev-syn-599779549-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:36Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>واكس للحواجب بديل ميكس اب</product_name>
 <product_url>https://thestorejeddah.com/ar/واكس-للحواجب-بديل-ميكس-اب/p599779549</product_url>
+<product_name>واكس للحواجب بديل ميكس اب</product_name>
 <product_ids>
+<gtins>
+<gtin>599779549</gtin>
+</gtins>
+<mpns>
+<mpn>599779549</mpn>
+</mpns>
 <skus>
 <sku>599779549</sku>
 </skus>
@@ -634,24 +746,29 @@
 </review>
 <review>
 <review_id>rev-syn-858225625-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بودره-مظغوطه-فلتر-ولوس-باودر-بنك/p858225625#rev-syn-858225625-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:36Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بودره مظغوطه فلتر ولوس باودر بنك</product_name>
 <product_url>https://thestorejeddah.com/ar/بودره-مظغوطه-فلتر-ولوس-باودر-بنك/p858225625</product_url>
+<product_name>بودره مظغوطه فلتر ولوس باودر بنك</product_name>
 <product_ids>
+<gtins>
+<gtin>858225625</gtin>
+</gtins>
+<mpns>
+<mpn>858225625</mpn>
+</mpns>
 <skus>
 <sku>858225625</sku>
 </skus>
@@ -661,24 +778,29 @@
 </review>
 <review>
 <review_id>rev-syn-1721775478-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/برايمر-بيبي-سكن-من-مايبلين/p1721775478#rev-syn-1721775478-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:35Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>برايمر بيبي سكن من مايبلين</product_name>
 <product_url>https://thestorejeddah.com/ar/برايمر-بيبي-سكن-من-مايبلين/p1721775478</product_url>
+<product_name>برايمر بيبي سكن من مايبلين</product_name>
 <product_ids>
+<gtins>
+<gtin>1721775478</gtin>
+</gtins>
+<mpns>
+<mpn>1721775478</mpn>
+</mpns>
 <skus>
 <sku>1721775478</sku>
 </skus>
@@ -688,24 +810,29 @@
 </review>
 <review>
 <review_id>rev-syn-1602226038-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ظل-بديل-ريفلوشن-رقم-1/p1602226038#rev-syn-1602226038-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:35Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ظل بديل ريفلوشن رقم 1</product_name>
 <product_url>https://thestorejeddah.com/ar/ظل-بديل-ريفلوشن-رقم-1/p1602226038</product_url>
+<product_name>ظل بديل ريفلوشن رقم 1</product_name>
 <product_ids>
+<gtins>
+<gtin>1602226038</gtin>
+</gtins>
+<mpns>
+<mpn>1602226038</mpn>
+</mpns>
 <skus>
 <sku>1602226038</sku>
 </skus>
@@ -715,24 +842,29 @@
 </review>
 <review>
 <review_id>rev-syn-2011616904-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/محددات-بديل-فلورمار-ريل-بيوتي/p2011616904#rev-syn-2011616904-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:35Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>محددات بديل فلورمار ريل بيوتي</product_name>
 <product_url>https://thestorejeddah.com/ar/محددات-بديل-فلورمار-ريل-بيوتي/p2011616904</product_url>
+<product_name>محددات بديل فلورمار ريل بيوتي</product_name>
 <product_ids>
+<gtins>
+<gtin>2011616904</gtin>
+</gtins>
+<mpns>
+<mpn>2011616904</mpn>
+</mpns>
 <skus>
 <sku>2011616904</sku>
 </skus>
@@ -745,24 +877,29 @@
 </review>
 <review>
 <review_id>rev-syn-1632426546-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بلاشر-خدود-يولاند-بيوتيthestorejeddah/p1632426546#rev-syn-1632426546-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:34Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بلاشر يولاند</product_name>
 <product_url>https://thestorejeddah.com/ar/بلاشر-خدود-يولاند-بيوتيthestorejeddah/p1632426546</product_url>
+<product_name>بلاشر يولاند</product_name>
 <product_ids>
+<gtins>
+<gtin>1632426546</gtin>
+</gtins>
+<mpns>
+<mpn>1632426546</mpn>
+</mpns>
 <skus>
 <sku>1632426546</sku>
 </skus>
@@ -772,24 +909,29 @@
 </review>
 <review>
 <review_id>rev-syn-1941669511-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ny-هارموني-بيوتي-بديل-بيوتي-باي-42-لون-bright-matte/p1941669511#rev-syn-1941669511-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:34Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ny هارموني بيوتي بديل بيوتي باي 42 لون , BRIGHT MATTE</product_name>
 <product_url>https://thestorejeddah.com/ar/ny-هارموني-بيوتي-بديل-بيوتي-باي-42-لون-bright-matte/p1941669511</product_url>
+<product_name>ny هارموني بيوتي بديل بيوتي باي 42 لون , BRIGHT MATTE</product_name>
 <product_ids>
+<gtins>
+<gtin>1941669511</gtin>
+</gtins>
+<mpns>
+<mpn>1941669511</mpn>
+</mpns>
 <skus>
 <sku>1941669511</sku>
 </skus>
@@ -799,24 +941,29 @@
 </review>
 <review>
 <review_id>rev-syn-1808874937-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ايلاينر-ريل-بيوتي/p1808874937#rev-syn-1808874937-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:34Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>لاينر للعين</product_name>
 <product_url>https://thestorejeddah.com/ar/ايلاينر-ريل-بيوتي/p1808874937</product_url>
+<product_name>لاينر للعين</product_name>
 <product_ids>
+<gtins>
+<gtin>1808874937</gtin>
+</gtins>
+<mpns>
+<mpn>1808874937</mpn>
+</mpns>
 <skus>
 <sku>1808874937</sku>
 </skus>
@@ -826,24 +973,29 @@
 </review>
 <review>
 <review_id>rev-syn-2006758166-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بوره-منثوره-بديل-ار-سي-ام-لونين/p2006758166#rev-syn-2006758166-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:33Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بوره منثوره بديل ار سي ام لونين</product_name>
 <product_url>https://thestorejeddah.com/ar/بوره-منثوره-بديل-ار-سي-ام-لونين/p2006758166</product_url>
+<product_name>بوره منثوره بديل ار سي ام لونين</product_name>
 <product_ids>
+<gtins>
+<gtin>2006758166</gtin>
+</gtins>
+<mpns>
+<mpn>2006758166</mpn>
+</mpns>
 <skus>
 <sku>2006758166</sku>
 </skus>
@@ -853,24 +1005,29 @@
 </review>
 <review>
 <review_id>rev-syn-245328295-149390986-1932202150</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بيوتي-بلندر-مثلث/p245328295#rev-syn-245328295-149390986-1932202150</review_url>
 <review_timestamp>2025-10-27T20:59:33Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1932202150</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بيوتي بلندر للبودر 2 قطع</product_name>
 <product_url>https://thestorejeddah.com/ar/بيوتي-بلندر-مثلث/p245328295</product_url>
+<product_name>بيوتي بلندر للبودر 2 قطع</product_name>
 <product_ids>
+<gtins>
+<gtin>245328295</gtin>
+</gtins>
+<mpns>
+<mpn>245328295</mpn>
+</mpns>
 <skus>
 <sku>245328295</sku>
 </skus>
@@ -880,24 +1037,29 @@
 </review>
 <review>
 <review_id>rev-syn-1581133752-595542703-866923725</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-كورماندل-او-دو-بارفيوم-200-كل-كما-هي/p1581133752#rev-syn-1581133752-595542703-866923725</review_url>
 <review_timestamp>2025-10-25T16:13:58Z</review_timestamp>
-<title>عميل موثق</title>
 <content>واو</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-866923725</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل كورماندل او دو بارفيوم 200 كل كما هي</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-كورماندل-او-دو-بارفيوم-200-كل-كما-هي/p1581133752</product_url>
+<product_name>عطر شانيل كورماندل او دو بارفيوم 200 كل كما هي</product_name>
 <product_ids>
+<gtins>
+<gtin>1581133752</gtin>
+</gtins>
+<mpns>
+<mpn>1581133752</mpn>
+</mpns>
 <skus>
 <sku>1581133752</sku>
 </skus>
@@ -907,24 +1069,29 @@
 </review>
 <review>
 <review_id>rev-syn-1755726862-401894050-1658646181</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-كوكو-مودموزيل-علبة-ثلجي-ليو-برايف-ايو-بور-لا-نوي-100مل/p1755726862#rev-syn-1755726862-401894050-1658646181</review_url>
 <review_timestamp>2025-10-25T16:07:23Z</review_timestamp>
-<title>عميل موثق</title>
 <content>يجنن يجنن يجنن</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1658646181</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل كوكو مودموزيل علبة ثلجي ليو برايف ايو بور لا نوي 100مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-كوكو-مودموزيل-علبة-ثلجي-ليو-برايف-ايو-بور-لا-نوي-100مل/p1755726862</product_url>
+<product_name>عطر شانيل كوكو مودموزيل علبة ثلجي ليو برايف ايو بور لا نوي 100مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1755726862</gtin>
+</gtins>
+<mpns>
+<mpn>1755726862</mpn>
+</mpns>
 <skus>
 <sku>1755726862</sku>
 </skus>
@@ -934,24 +1101,29 @@
 </review>
 <review>
 <review_id>rev-syn-1483135455-401894050-1658646181</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-مس-ديور-اودي-بارفيوم-100-مل/p1483135455#rev-syn-1483135455-401894050-1658646181</review_url>
 <review_timestamp>2025-10-25T16:07:23Z</review_timestamp>
-<title>عميل موثق</title>
 <content>رائع جدا انثوي</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1658646181</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر مس ديور اودي بارفيوم 100 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-مس-ديور-اودي-بارفيوم-100-مل/p1483135455</product_url>
+<product_name>عطر مس ديور اودي بارفيوم 100 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1483135455</gtin>
+</gtins>
+<mpns>
+<mpn>1483135455</mpn>
+</mpns>
 <skus>
 <sku>1483135455</sku>
 </skus>
@@ -961,24 +1133,29 @@
 </review>
 <review>
 <review_id>rev-syn-400894491-401894050-1658646181</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-نمبر-5-ليو-100مل/p400894491#rev-syn-400894491-401894050-1658646181</review_url>
 <review_timestamp>2025-10-25T16:07:22Z</review_timestamp>
-<title>عميل موثق</title>
 <content>من اروع ما يكون</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1658646181</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل نمبر 5 ليو 100مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-نمبر-5-ليو-100مل/p400894491</product_url>
+<product_name>عطر شانيل نمبر 5 ليو 100مل</product_name>
 <product_ids>
+<gtins>
+<gtin>400894491</gtin>
+</gtins>
+<mpns>
+<mpn>400894491</mpn>
+</mpns>
 <skus>
 <sku>400894491</sku>
 </skus>
@@ -988,24 +1165,29 @@
 </review>
 <review>
 <review_id>rev-syn-189179465-892692604-265037355</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ملمع-الشفاه-ديور-اديكت-ليب-جلو-2-قطع/p189179465#rev-syn-189179465-892692604-265037355</review_url>
 <review_timestamp>2025-10-23T20:07:28Z</review_timestamp>
-<title>عميل موثق</title>
 <content>ممتاز</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-265037355</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">4</overall>
 </ratings>
 <products>
 <product>
-<product_name>ملمع الشفاه ديور اديكت ليب جلو 2 قطع</product_name>
 <product_url>https://thestorejeddah.com/ar/ملمع-الشفاه-ديور-اديكت-ليب-جلو-2-قطع/p189179465</product_url>
+<product_name>ملمع الشفاه ديور اديكت ليب جلو 2 قطع</product_name>
 <product_ids>
+<gtins>
+<gtin>189179465</gtin>
+</gtins>
+<mpns>
+<mpn>189179465</mpn>
+</mpns>
 <skus>
 <sku>189179465</sku>
 </skus>
@@ -1015,24 +1197,29 @@
 </review>
 <review>
 <review_id>rev-syn-901393064-892692604-265037355</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/طقم-شانيل-غابريل/p901393064#rev-syn-901393064-892692604-265037355</review_url>
 <review_timestamp>2025-10-23T20:07:28Z</review_timestamp>
-<title>عميل موثق</title>
 <content>اللي بيشتريه على اساس ان ريحته حلوه يوفر فلوسه ابدا ريحته اقل من عاديه كانها شامبو الكماليات، فقط التغليف الجيد والشكل</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-265037355</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">1</overall>
 </ratings>
 <products>
 <product>
-<product_name>طقم شانيل غابريل</product_name>
 <product_url>https://thestorejeddah.com/ar/طقم-شانيل-غابريل/p901393064</product_url>
+<product_name>طقم شانيل غابريل</product_name>
 <product_ids>
+<gtins>
+<gtin>901393064</gtin>
+</gtins>
+<mpns>
+<mpn>901393064</mpn>
+</mpns>
 <skus>
 <sku>901393064</sku>
 </skus>
@@ -1042,24 +1229,29 @@
 </review>
 <review>
 <review_id>rev-syn-782997561-1995505512-907371120</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-زيرجوف-كاساموراتي-مانفيستو-او-دو-بارفيوم-100مل/p782997561#rev-syn-782997561-1995505512-907371120</review_url>
 <review_timestamp>2025-10-22T04:26:09Z</review_timestamp>
-<title>عميل موثق</title>
 <content>حلو اخذته هديه ل اخوي واعجبه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-907371120</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر زيرجوف كاساموراتي مانفيستو او دو بارفيوم 100مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-زيرجوف-كاساموراتي-مانفيستو-او-دو-بارفيوم-100مل/p782997561</product_url>
+<product_name>عطر زيرجوف كاساموراتي مانفيستو او دو بارفيوم 100مل</product_name>
 <product_ids>
+<gtins>
+<gtin>782997561</gtin>
+</gtins>
+<mpns>
+<mpn>782997561</mpn>
+</mpns>
 <skus>
 <sku>782997561</sku>
 </skus>
@@ -1069,24 +1261,29 @@
 </review>
 <review>
 <review_id>rev-syn-1661264551-1995505512-907371120</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/جيرلان-عطر-كوير-بيلوغا-او-دوي-بارفيوم-100-مل/p1661264551#rev-syn-1661264551-1995505512-907371120</review_url>
 <review_timestamp>2025-10-22T04:26:09Z</review_timestamp>
-<title>عميل موثق</title>
 <content>يجنن الريحة بااارده على شي فخم حلو مراا ومن ناحية الثبات حطيته اول ماجاني المغرب ورجعت شميته بعد تقريباً اربع ساعات والريحه باقيه موجوده</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-907371120</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>جيرلان عطر كوير بيلوغا او دوي بارفيوم 100 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/جيرلان-عطر-كوير-بيلوغا-او-دوي-بارفيوم-100-مل/p1661264551</product_url>
+<product_name>جيرلان عطر كوير بيلوغا او دوي بارفيوم 100 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1661264551</gtin>
+</gtins>
+<mpns>
+<mpn>1661264551</mpn>
+</mpns>
 <skus>
 <sku>1661264551</sku>
 </skus>
@@ -1096,24 +1293,29 @@
 </review>
 <review>
 <review_id>rev-syn-429750612-1151207416-1249703634</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-جان-بول-غولتير-سكاندال-او-دو-بارفيوم-انتنس-80مل/p429750612#rev-syn-429750612-1151207416-1249703634</review_url>
 <review_timestamp>2025-10-20T07:25:53Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل وثابت و نفس رائحة الاصلي</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1249703634</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر جان بول غولتير سكاندال او دو بارفيوم انتنس 80مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-جان-بول-غولتير-سكاندال-او-دو-بارفيوم-انتنس-80مل/p429750612</product_url>
+<product_name>عطر جان بول غولتير سكاندال او دو بارفيوم انتنس 80مل</product_name>
 <product_ids>
+<gtins>
+<gtin>429750612</gtin>
+</gtins>
+<mpns>
+<mpn>429750612</mpn>
+</mpns>
 <skus>
 <sku>429750612</sku>
 </skus>
@@ -1123,24 +1325,29 @@
 </review>
 <review>
 <review_id>rev-syn-76378685-1151207416-1249703634</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-كيليان-انجل-شير-او-دو-بارفيوم-50مل/p76378685#rev-syn-76378685-1151207416-1249703634</review_url>
 <review_timestamp>2025-10-20T07:25:52Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل وثابت و نفس رائحة الاصلي</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1249703634</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر كيليان انجل شير او دو بارفيوم-50مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-كيليان-انجل-شير-او-دو-بارفيوم-50مل/p76378685</product_url>
+<product_name>عطر كيليان انجل شير او دو بارفيوم-50مل</product_name>
 <product_ids>
+<gtins>
+<gtin>76378685</gtin>
+</gtins>
+<mpns>
+<mpn>76378685</mpn>
+</mpns>
 <skus>
 <sku>76378685</sku>
 </skus>
@@ -1150,24 +1357,29 @@
 </review>
 <review>
 <review_id>rev-syn-68006156-21354829-939736917</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-ميمو-مارفا-75-مل/p68006156#rev-syn-68006156-21354829-939736917</review_url>
 <review_timestamp>2025-10-19T20:33:54Z</review_timestamp>
-<title>عميل موثق</title>
 <content>فخم لكن شميت الثاني ومتاكدة ان هذا نفس الجودة والفخامة لانه مقفل ابيه هدية</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-939736917</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر ميمو مارفا 75 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-ميمو-مارفا-75-مل/p68006156</product_url>
+<product_name>عطر ميمو مارفا 75 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>68006156</gtin>
+</gtins>
+<mpns>
+<mpn>68006156</mpn>
+</mpns>
 <skus>
 <sku>68006156</sku>
 </skus>
@@ -1177,24 +1389,29 @@
 </review>
 <review>
 <review_id>rev-syn-1245371906-21354829-939736917</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-ميمو-باريس-انفرنيس-او-دو-بارفيوم-75-مل/p1245371906#rev-syn-1245371906-21354829-939736917</review_url>
 <review_timestamp>2025-10-19T20:33:54Z</review_timestamp>
-<title>عميل موثق</title>
 <content>يالله يابنات والله العظيم أستلمته البارح وبخيته البارح والله العظيم صحيت ريحتي كلها منها وطول الوقت افوح والى الان الريحة بشعري يجنن يجنن فخممممممم حتى البكج حقه فخم تقدرين تهدينه وانتي مرتاخة</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-939736917</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر ميمو باريس انفرنيس او دو بارفيوم 75 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-ميمو-باريس-انفرنيس-او-دو-بارفيوم-75-مل/p1245371906</product_url>
+<product_name>عطر ميمو باريس انفرنيس او دو بارفيوم 75 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1245371906</gtin>
+</gtins>
+<mpns>
+<mpn>1245371906</mpn>
+</mpns>
 <skus>
 <sku>1245371906</sku>
 </skus>
@@ -1204,24 +1421,29 @@
 </review>
 <review>
 <review_id>rev-syn-1819916760-21354829-939736917</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/روج-بديل-سيفورا-ريل-بيوتي-رقم-1/p1819916760#rev-syn-1819916760-21354829-939736917</review_url>
 <review_timestamp>2025-10-19T20:33:54Z</review_timestamp>
-<title>عميل موثق</title>
 <content>روعة</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-939736917</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>روج بديل سيفورا ريل بيوتي رقم 1</product_name>
 <product_url>https://thestorejeddah.com/ar/روج-بديل-سيفورا-ريل-بيوتي-رقم-1/p1819916760</product_url>
+<product_name>روج بديل سيفورا ريل بيوتي رقم 1</product_name>
 <product_ids>
+<gtins>
+<gtin>1819916760</gtin>
+</gtins>
+<mpns>
+<mpn>1819916760</mpn>
+</mpns>
 <skus>
 <sku>1819916760</sku>
 </skus>
@@ -1234,24 +1456,29 @@
 </review>
 <review>
 <review_id>rev-syn-937407416-544780245-939736917</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-امواج-هونر-43-للنساء-100-مل/p937407416#rev-syn-937407416-544780245-939736917</review_url>
 <review_timestamp>2025-10-19T20:30:28Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-939736917</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر امواج هونر 43 للنساء -100 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-امواج-هونر-43-للنساء-100-مل/p937407416</product_url>
+<product_name>عطر امواج هونر 43 للنساء -100 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>937407416</gtin>
+</gtins>
+<mpns>
+<mpn>937407416</mpn>
+</mpns>
 <skus>
 <sku>937407416</sku>
 </skus>
@@ -1261,24 +1488,29 @@
 </review>
 <review>
 <review_id>rev-syn-1026892639-1450262023-1544062032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/يوتوبيا-فانيل-كوك-21-100مل-كيالي-100مل-او-دو-برفيوم-إنتنس/p1026892639#rev-syn-1026892639-1450262023-1544062032</review_url>
 <review_timestamp>2025-10-19T01:43:15Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل وجدًا على سعره بس العلبة جات نوعاً ما متضرره الحمدلله لي ماني نويته هديه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1544062032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>يوتوبيا فانيل كوك 21 100مل كيالي 100مل او دو برفيوم إنتنس</product_name>
 <product_url>https://thestorejeddah.com/ar/يوتوبيا-فانيل-كوك-21-100مل-كيالي-100مل-او-دو-برفيوم-إنتنس/p1026892639</product_url>
+<product_name>يوتوبيا فانيل كوك 21 100مل كيالي 100مل او دو برفيوم إنتنس</product_name>
 <product_ids>
+<gtins>
+<gtin>1026892639</gtin>
+</gtins>
+<mpns>
+<mpn>1026892639</mpn>
+</mpns>
 <skus>
 <sku>1026892639</sku>
 </skus>
@@ -1288,24 +1520,29 @@
 </review>
 <review>
 <review_id>rev-syn-1074507027-1450262023-1544062032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/قوتشي-فلورا-جورجوس-غردينيا-إنتنس-او-دو-بارفان-100/p1074507027#rev-syn-1074507027-1450262023-1544062032</review_url>
 <review_timestamp>2025-10-19T01:43:15Z</review_timestamp>
-<title>عميل موثق</title>
 <content>اخذته على مدح الهام ♥️</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1544062032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>قوتشي فلورا جورجوس غردينيا إنتنس او دو بارفان 100</product_name>
 <product_url>https://thestorejeddah.com/ar/قوتشي-فلورا-جورجوس-غردينيا-إنتنس-او-دو-بارفان-100/p1074507027</product_url>
+<product_name>قوتشي فلورا جورجوس غردينيا إنتنس او دو بارفان 100</product_name>
 <product_ids>
+<gtins>
+<gtin>1074507027</gtin>
+</gtins>
+<mpns>
+<mpn>1074507027</mpn>
+</mpns>
 <skus>
 <sku>1074507027</sku>
 </skus>
@@ -1315,24 +1552,29 @@
 </review>
 <review>
 <review_id>rev-syn-1753955126-1450262023-1544062032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-كايلي-فانيلا-28-او-دو-برفيوم-100-مل/p1753955126#rev-syn-1753955126-1450262023-1544062032</review_url>
 <review_timestamp>2025-10-19T01:43:15Z</review_timestamp>
-<title>عميل موثق</title>
 <content>يجنن وعلى سعرره يجنن اكثر</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1544062032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر كايلي فانيلا 28 او دو برفيوم 100 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-كايلي-فانيلا-28-او-دو-برفيوم-100-مل/p1753955126</product_url>
+<product_name>عطر كايلي فانيلا 28 او دو برفيوم 100 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1753955126</gtin>
+</gtins>
+<mpns>
+<mpn>1753955126</mpn>
+</mpns>
 <skus>
 <sku>1753955126</sku>
 </skus>
@@ -1342,24 +1584,29 @@
 </review>
 <review>
 <review_id>rev-syn-396566140-1450262023-1544062032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-برادا-بارادوكس-انتنس/p396566140#rev-syn-396566140-1450262023-1544062032</review_url>
 <review_timestamp>2025-10-19T01:43:14Z</review_timestamp>
-<title>عميل موثق</title>
 <content>بكل أمانه توقعته افضل لكن لابأس فيه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1544062032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">2</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر برادا بارادوكس انتنس</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-برادا-بارادوكس-انتنس/p396566140</product_url>
+<product_name>عطر برادا بارادوكس انتنس</product_name>
 <product_ids>
+<gtins>
+<gtin>396566140</gtin>
+</gtins>
+<mpns>
+<mpn>396566140</mpn>
+</mpns>
 <skus>
 <sku>396566140</sku>
 </skus>
@@ -1369,24 +1616,29 @@
 </review>
 <review>
 <review_id>rev-syn-359054255-1450262023-1544062032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-ايف-سان-لوران-ليبر-فلاورز-اند-فلامز-اودي-بارفيوم-فلورال-90-مل/p359054255#rev-syn-359054255-1450262023-1544062032</review_url>
 <review_timestamp>2025-10-19T01:43:14Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1544062032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر ايف سان لوران ليبر فلاورز اند فلامز اودي بارفيوم فلورال 90 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-ايف-سان-لوران-ليبر-فلاورز-اند-فلامز-اودي-بارفيوم-فلورال-90-مل/p359054255</product_url>
+<product_name>عطر ايف سان لوران ليبر فلاورز اند فلامز اودي بارفيوم فلورال 90 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>359054255</gtin>
+</gtins>
+<mpns>
+<mpn>359054255</mpn>
+</mpns>
 <skus>
 <sku>359054255</sku>
 </skus>
@@ -1396,24 +1648,29 @@
 </review>
 <review>
 <review_id>rev-syn-349884436-1883497793-1997917270</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-شانيل-نمبر-5-لو-إصدار-محدود-او-دو-تواليت-50مل/p349884436#rev-syn-349884436-1883497793-1997917270</review_url>
 <review_timestamp>2025-10-17T14:08:55Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1997917270</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">1</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر شانيل نمبر 5 لو إصدار محدود - او دو تواليت - 50مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-شانيل-نمبر-5-لو-إصدار-محدود-او-دو-تواليت-50مل/p349884436</product_url>
+<product_name>عطر شانيل نمبر 5 لو إصدار محدود - او دو تواليت - 50مل</product_name>
 <product_ids>
+<gtins>
+<gtin>349884436</gtin>
+</gtins>
+<mpns>
+<mpn>349884436</mpn>
+</mpns>
 <skus>
 <sku>349884436</sku>
 </skus>
@@ -1423,24 +1680,29 @@
 </review>
 <review>
 <review_id>rev-syn-1664973438-284368124-1646673362</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/اسوره-ديور-فضي-مع-ملحقات/p1664973438#rev-syn-1664973438-284368124-1646673362</review_url>
 <review_timestamp>2025-10-17T12:26:59Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تم التقييم</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1646673362</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>اسوره ديور فضي مع ملحقات</product_name>
 <product_url>https://thestorejeddah.com/ar/اسوره-ديور-فضي-مع-ملحقات/p1664973438</product_url>
+<product_name>اسوره ديور فضي مع ملحقات</product_name>
 <product_ids>
+<gtins>
+<gtin>1664973438</gtin>
+</gtins>
+<mpns>
+<mpn>1664973438</mpn>
+</mpns>
 <skus>
 <sku>1664973438</sku>
 </skus>
@@ -1450,24 +1712,29 @@
 </review>
 <review>
 <review_id>rev-syn-1420049097-588756421-30333032</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عطر-كوميت-أو-دي-بارفيوم-للنساء-شانيل-200-مل/p1420049097#rev-syn-1420049097-588756421-30333032</review_url>
 <review_timestamp>2025-10-16T23:02:59Z</review_timestamp>
-<title>عميل موثق</title>
 <content>مرررره يجنن ولايفرق عن الاصلي 😍🤍شكراً الهام</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-30333032</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عطر كوميت أو دي بارفيوم للنساء شانيل 200 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/عطر-كوميت-أو-دي-بارفيوم-للنساء-شانيل-200-مل/p1420049097</product_url>
+<product_name>عطر كوميت أو دي بارفيوم للنساء شانيل 200 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>1420049097</gtin>
+</gtins>
+<mpns>
+<mpn>1420049097</mpn>
+</mpns>
 <skus>
 <sku>1420049097</sku>
 </skus>
@@ -1477,24 +1744,29 @@
 </review>
 <review>
 <review_id>rev-8308473</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/طقم-روج-جدة-3-قطع-للإطلالة-المثالية/p1062835941#rev-8308473</review_url>
 <review_timestamp>2024-06-25T05:26:06Z</review_timestamp>
-<title>عميل موثق</title>
 <content>اعجبني</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1477028405</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>طقم روج جدة – 3 قطع للإطلالة المثالية</product_name>
 <product_url>https://thestorejeddah.com/ar/طقم-روج-جدة-3-قطع-للإطلالة-المثالية/p1062835941</product_url>
+<product_name>طقم روج جدة – 3 قطع للإطلالة المثالية</product_name>
 <product_ids>
+<gtins>
+<gtin>1062835941</gtin>
+</gtins>
+<mpns>
+<mpn>1062835941</mpn>
+</mpns>
 <skus>
 <sku>1062835941</sku>
 </skus>
@@ -1504,24 +1776,29 @@
 </review>
 <review>
 <review_id>rev-646255514</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عرض-من-اختيارنا/p1101360547#rev-646255514</review_url>
 <review_timestamp>2024-04-01T11:06:56Z</review_timestamp>
-<title>عميل موثق</title>
 <content>بكج متكامل وروعه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1965804194</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عرض من اختيارنا</product_name>
 <product_url>https://thestorejeddah.com/ar/عرض-من-اختيارنا/p1101360547</product_url>
+<product_name>عرض من اختيارنا</product_name>
 <product_ids>
+<gtins>
+<gtin>1101360547</gtin>
+</gtins>
+<mpns>
+<mpn>1101360547</mpn>
+</mpns>
 <skus>
 <sku>1101360547</sku>
 </skus>
@@ -1531,24 +1808,29 @@
 </review>
 <review>
 <review_id>rev-825960187</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عرض-من-اختيارنا/p1101360547#rev-825960187</review_url>
 <review_timestamp>2024-03-30T00:33:33Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جميل ورائع ويوفر عليكي الكتير 👏🏻🌟</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-838406203</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عرض من اختيارنا</product_name>
 <product_url>https://thestorejeddah.com/ar/عرض-من-اختيارنا/p1101360547</product_url>
+<product_name>عرض من اختيارنا</product_name>
 <product_ids>
+<gtins>
+<gtin>1101360547</gtin>
+</gtins>
+<mpns>
+<mpn>1101360547</mpn>
+</mpns>
 <skus>
 <sku>1101360547</sku>
 </skus>
@@ -1558,24 +1840,29 @@
 </review>
 <review>
 <review_id>rev-1749960920</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/اظلال-روز-بيري-4-قطع/p266234817#rev-1749960920</review_url>
 <review_timestamp>2024-03-09T15:54:32Z</review_timestamp>
-<title>عميل موثق</title>
 <content>خياااال خيااااال خيااال الالوان واضحة وثابت ما يروح يجنننن صدق لا تتعدونه 🤍</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-797512241</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>اظلال روز بيري 4 قطع</product_name>
 <product_url>https://thestorejeddah.com/ar/اظلال-روز-بيري-4-قطع/p266234817</product_url>
+<product_name>اظلال روز بيري 4 قطع</product_name>
 <product_ids>
+<gtins>
+<gtin>266234817</gtin>
+</gtins>
+<mpns>
+<mpn>266234817</mpn>
+</mpns>
 <skus>
 <sku>266234817</sku>
 </skus>
@@ -1588,24 +1875,29 @@
 </review>
 <review>
 <review_id>rev-1719626999</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بودره-بديل-فرانك-زيت-جل-مرطب-روز-بيري/p844842513#rev-1719626999</review_url>
 <review_timestamp>2024-02-11T14:31:51Z</review_timestamp>
-<title>عميل موثق</title>
 <content>اكتر من راعه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-420369157</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بودره بديل فرانك + زيت جل مرطب روز بيري</product_name>
 <product_url>https://thestorejeddah.com/ar/بودره-بديل-فرانك-زيت-جل-مرطب-روز-بيري/p844842513</product_url>
+<product_name>بودره بديل فرانك + زيت جل مرطب روز بيري</product_name>
 <product_ids>
+<gtins>
+<gtin>844842513</gtin>
+</gtins>
+<mpns>
+<mpn>844842513</mpn>
+</mpns>
 <skus>
 <sku>844842513</sku>
 </skus>
@@ -1618,24 +1910,29 @@
 </review>
 <review>
 <review_id>rev-444668283</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ارواج-بديل-كلر-بوب-جافه-18-لون/p1188736202#rev-444668283</review_url>
 <review_timestamp>2024-01-30T04:40:30Z</review_timestamp>
-<title>عميل موثق</title>
 <content>مرررره حلوه</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-177360219</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ارواج بديل كلر بوب جافه 18 لون</product_name>
 <product_url>https://thestorejeddah.com/ar/ارواج-بديل-كلر-بوب-جافه-18-لون/p1188736202</product_url>
+<product_name>ارواج بديل كلر بوب جافه 18 لون</product_name>
 <product_ids>
+<gtins>
+<gtin>1188736202</gtin>
+</gtins>
+<mpns>
+<mpn>1188736202</mpn>
+</mpns>
 <skus>
 <sku>1188736202</sku>
 </skus>
@@ -1645,24 +1942,29 @@
 </review>
 <review>
 <review_id>rev-165586590</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ظل-عيون/p1433179525#rev-165586590</review_url>
 <review_timestamp>2023-12-25T06:08:59Z</review_timestamp>
-<title>عميل موثق</title>
 <content>وربي يهبللللللل والألوان واضحههه م شاء الله خاصتا الوان الشيمر مرا يجنن خذوه وانتو مغمضين</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1286169129</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ظل كيري روز 48 لون</product_name>
 <product_url>https://thestorejeddah.com/ar/ظل-عيون/p1433179525</product_url>
+<product_name>ظل كيري روز 48 لون</product_name>
 <product_ids>
+<gtins>
+<gtin>1433179525</gtin>
+</gtins>
+<mpns>
+<mpn>1433179525</mpn>
+</mpns>
 <skus>
 <sku>1433179525</sku>
 </skus>
@@ -1672,24 +1974,29 @@
 </review>
 <review>
 <review_id>rev-534357483</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/عروض/p1977509443#rev-534357483</review_url>
 <review_timestamp>2023-12-11T08:45:39Z</review_timestamp>
-<title>عميل موثق</title>
 <content>اللون يموت يابنات خذوه وانتم مغمضين</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1654524760</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>عرض مكس نود</product_name>
 <product_url>https://thestorejeddah.com/ar/عروض/p1977509443</product_url>
+<product_name>عرض مكس نود</product_name>
 <product_ids>
+<gtins>
+<gtin>1977509443</gtin>
+</gtins>
+<mpns>
+<mpn>1977509443</mpn>
+</mpns>
 <skus>
 <sku>1977509443</sku>
 </skus>
@@ -1702,24 +2009,29 @@
 </review>
 <review>
 <review_id>rev-939706748</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/بلاشر-بديل-فلورمار/p686978007#rev-939706748</review_url>
 <review_timestamp>2023-10-09T05:12:22Z</review_timestamp>
-<title>عميل موثق</title>
 <content>ان شاء الله يكون نفس الطلب</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-393708380</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>بلشر برونز للوجه والجسم ريل بيوتي</product_name>
 <product_url>https://thestorejeddah.com/ar/بلاشر-بديل-فلورمار/p686978007</product_url>
+<product_name>بلشر برونز للوجه والجسم ريل بيوتي</product_name>
 <product_ids>
+<gtins>
+<gtin>686978007</gtin>
+</gtins>
+<mpns>
+<mpn>686978007</mpn>
+</mpns>
 <skus>
 <sku>686978007</sku>
 </skus>
@@ -1732,24 +2044,29 @@
 </review>
 <review>
 <review_id>rev-333747077</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/زيت-اكليل-الجبل-ميلي/p2065117225#rev-333747077</review_url>
 <review_timestamp>2023-10-09T02:27:24Z</review_timestamp>
-<title>عميل موثق</title>
 <content>روووعة صراحة طلبت اكثر من مرة 😍😍</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-496469277</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>زيت إكليل الجبل والنعناع للشعر من ميلي اورجانيكس 59 مل</product_name>
 <product_url>https://thestorejeddah.com/ar/زيت-اكليل-الجبل-ميلي/p2065117225</product_url>
+<product_name>زيت إكليل الجبل والنعناع للشعر من ميلي اورجانيكس 59 مل</product_name>
 <product_ids>
+<gtins>
+<gtin>2065117225</gtin>
+</gtins>
+<mpns>
+<mpn>2065117225</mpn>
+</mpns>
 <skus>
 <sku>2065117225</sku>
 </skus>
@@ -1759,24 +2076,29 @@
 </review>
 <review>
 <review_id>rev-1810156632</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/باليت-متنوع-اوف-مي/p1639124257#rev-1810156632</review_url>
 <review_timestamp>2023-06-23T10:10:49Z</review_timestamp>
-<title>عميل موثق</title>
 <content>تجنن</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-383076246</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>باليت متنوع اوف مي</product_name>
 <product_url>https://thestorejeddah.com/ar/باليت-متنوع-اوف-مي/p1639124257</product_url>
+<product_name>باليت متنوع اوف مي</product_name>
 <product_ids>
+<gtins>
+<gtin>1639124257</gtin>
+</gtins>
+<mpns>
+<mpn>1639124257</mpn>
+</mpns>
 <skus>
 <sku>1639124257</sku>
 </skus>
@@ -1786,24 +2108,29 @@
 </review>
 <review>
 <review_id>rev-164553144</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/اضاءه-سائله-للوجه/p1784989702#rev-164553144</review_url>
 <review_timestamp>2023-06-22T02:27:17Z</review_timestamp>
-<title>عميل موثق</title>
 <content>جممممممميله مره</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1326975858</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>اضاءه سائله 6 الوان او ريل بيوتي</product_name>
 <product_url>https://thestorejeddah.com/ar/اضاءه-سائله-للوجه/p1784989702</product_url>
+<product_name>اضاءه سائله 6 الوان او ريل بيوتي</product_name>
 <product_ids>
+<gtins>
+<gtin>1784989702</gtin>
+</gtins>
+<mpns>
+<mpn>1784989702</mpn>
+</mpns>
 <skus>
 <sku>1784989702</sku>
 </skus>
@@ -1816,24 +2143,29 @@
 </review>
 <review>
 <review_id>rev-1455963852</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/قلم-حواجب-بني-بديل-اربن-ديكاي-ريل-بيوتي/p1224962520#rev-1455963852</review_url>
 <review_timestamp>2023-06-05T05:48:52Z</review_timestamp>
-<title>عميل موثق</title>
 <content>المنتج راااااااائع جدا انا اخذته ع مدح صديقتي وفعلا ابهرني بنتيجته وثابت وسهل الاستخدام</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1274484428</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>قلم حواجب بديل اربن ديكاي ريل بيوتي 2 والثالث مجانا</product_name>
 <product_url>https://thestorejeddah.com/ar/قلم-حواجب-بني-بديل-اربن-ديكاي-ريل-بيوتي/p1224962520</product_url>
+<product_name>قلم حواجب بديل اربن ديكاي ريل بيوتي 2 والثالث مجانا</product_name>
 <product_ids>
+<gtins>
+<gtin>1224962520</gtin>
+</gtins>
+<mpns>
+<mpn>1224962520</mpn>
+</mpns>
 <skus>
 <sku>1224962520</sku>
 </skus>
@@ -1846,24 +2178,29 @@
 </review>
 <review>
 <review_id>rev-646421398</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/اضاءه-هايلايتر-روز-بيري-3-قطع/p314457898#rev-646421398</review_url>
 <review_timestamp>2023-05-16T23:59:59Z</review_timestamp>
-<title>عميل موثق</title>
 <content>___</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-749212214</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">4</overall>
 </ratings>
 <products>
 <product>
-<product_name>اضاءه هايلايتر روز بيري 3 قطع</product_name>
 <product_url>https://thestorejeddah.com/ar/اضاءه-هايلايتر-روز-بيري-3-قطع/p314457898</product_url>
+<product_name>اضاءه هايلايتر روز بيري 3 قطع</product_name>
 <product_ids>
+<gtins>
+<gtin>314457898</gtin>
+</gtins>
+<mpns>
+<mpn>314457898</mpn>
+</mpns>
 <skus>
 <sku>314457898</sku>
 </skus>
@@ -1876,24 +2213,29 @@
 </review>
 <review>
 <review_id>rev-1139224524</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ارواج-بديل-برجواي-6-الوان/p1561679113#rev-1139224524</review_url>
 <review_timestamp>2023-05-07T07:39:01Z</review_timestamp>
-<title>عميل موثق</title>
 <content>حبيتها</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1661387968</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ارواج بديل برجواي 6 الوان</product_name>
 <product_url>https://thestorejeddah.com/ar/ارواج-بديل-برجواي-6-الوان/p1561679113</product_url>
+<product_name>ارواج بديل برجواي 6 الوان</product_name>
 <product_ids>
+<gtins>
+<gtin>1561679113</gtin>
+</gtins>
+<mpns>
+<mpn>1561679113</mpn>
+</mpns>
 <skus>
 <sku>1561679113</sku>
 </skus>
@@ -1903,24 +2245,29 @@
 </review>
 <review>
 <review_id>rev-1491762813</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/ارواج-بديل-كيكو/p1948209082#rev-1491762813</review_url>
 <review_timestamp>2023-04-06T00:36:50Z</review_timestamp>
-<title>عميل موثق</title>
 <content>الارواج حلوه وثابته مره</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-1657584661</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>ارواج سائله بديل كيكو 6 الوان</product_name>
 <product_url>https://thestorejeddah.com/ar/ارواج-بديل-كيكو/p1948209082</product_url>
+<product_name>ارواج سائله بديل كيكو 6 الوان</product_name>
 <product_ids>
+<gtins>
+<gtin>1948209082</gtin>
+</gtins>
+<mpns>
+<mpn>1948209082</mpn>
+</mpns>
 <skus>
 <sku>1948209082</sku>
 </skus>
@@ -1930,24 +2277,29 @@
 </review>
 <review>
 <review_id>rev-1095954495</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/مناكير-بديل-فلورمار-24-قطعه/p1297106662#rev-1095954495</review_url>
 <review_timestamp>2023-04-03T08:22:18Z</review_timestamp>
-<title>عميل موثق</title>
 <content>وصلتني سليمة ومغلفة تمام 😍😍</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-687468723</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">4</overall>
 </ratings>
 <products>
 <product>
-<product_name>مناكير بديل فلورمار 24 قطعه</product_name>
 <product_url>https://thestorejeddah.com/ar/مناكير-بديل-فلورمار-24-قطعه/p1297106662</product_url>
+<product_name>مناكير بديل فلورمار 24 قطعه</product_name>
 <product_ids>
+<gtins>
+<gtin>1297106662</gtin>
+</gtins>
+<mpns>
+<mpn>1297106662</mpn>
+</mpns>
 <skus>
 <sku>1297106662</sku>
 </skus>
@@ -1960,24 +2312,29 @@
 </review>
 <review>
 <review_id>rev-2043260617</review_id>
+<review_language>ar</review_language>
+<review_country>SA</review_country>
 <review_url type="group">https://thestorejeddah.com/ar/جل-حواجب-عصار-ثابت/p989784414#rev-2043260617</review_url>
 <review_timestamp>2023-03-27T05:37:39Z</review_timestamp>
-<title>عميل موثق</title>
 <content>ثااابت 😍</content>
 <reviewer>
 <name>عميل موثق</name>
 <reviewer_id>user-33031460</reviewer_id>
 </reviewer>
-<review_language>ar</review_language>
-<review_country>SA</review_country>
 <ratings>
 <overall min="1" max="5">5</overall>
 </ratings>
 <products>
 <product>
-<product_name>جل عصار حواجب بديل فورايفر 3 الوان</product_name>
 <product_url>https://thestorejeddah.com/ar/جل-حواجب-عصار-ثابت/p989784414</product_url>
+<product_name>جل عصار حواجب بديل فورايفر 3 الوان</product_name>
 <product_ids>
+<gtins>
+<gtin>989784414</gtin>
+</gtins>
+<mpns>
+<mpn>989784414</mpn>
+</mpns>
 <skus>
 <sku>989784414</sku>
 </skus>
